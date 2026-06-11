@@ -19,7 +19,8 @@ Interactive Power BI dashboard for analyzing sales, profit, customer segments, a
 - Customer segment performance evaluated
 
 ## Dashboard Preview
-(Add Screenshot Here)
+<img width="600" height="350" alt="Screenshot 2026-06-11 144409" src="https://github.com/user-attachments/assets/45e0209b-ebcd-4ac9-a6b4-645ad11b1b34" />
+
 
 ## Skills Demonstrated
 Power BI, Data Visualization, KPI Reporting, Business Analysis
